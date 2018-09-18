@@ -1,0 +1,7 @@
+{
+  "public": true,
+  "features": {
+    "cloud": "v2"
+  },
+  "alias": ["buildx.ml", "mattn"]
+}
