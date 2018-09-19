@@ -3,5 +3,11 @@
   "features": {
     "cloud": "v2"
   },
-  "alias": ["buildx.ml", "mattn"]
+  "alias": [
+    "buildx.ml",
+    "mattn"
+  ],
+  "env": {
+    "postgres_uri": "@postgres_uri"
+  }
 }
